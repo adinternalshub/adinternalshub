@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jinish Kunjilikkattil 👋</h1>
 
 <p align="center">
-  <b>Active Directory Lead &amp; Engineer</b> · 20+ years in IT, 13+ engineering Active Directory for large enterprises<br>
+  <b>Active Directory Engineer</b> · 20+ years in IT, 13+ engineering Active Directory for large enterprises<br>
   I design, defend and recover hybrid Windows identity estates — and I write up how it all really works at
   <a href="https://adinternalshub.com/"><b>adinternalshub.com</b></a>.
 </p>
