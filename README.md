@@ -23,7 +23,7 @@
 
 ### 📖 Currently writing
 
-**_Advanced Active Directory Engineering — Internals, Protocols, Attack Paths, and Recovery_** — a deep engineering reference for the Windows Server 2025 era, written from the directory engineer's seat.
+**_Advanced Active Directory Engineering — Internals, Protocols, Attack Paths, and Recovery_** — a deep engineering reference for the Windows Server 2025 era, written from the directory engineer's seat. *(Work in progress — not yet published.)*
 
 ### 🛠️ Featured project
 
@@ -46,7 +46,7 @@ Microsoft **MCTS** · **MCITP** · **MCSA** (Windows Server 2008 &amp; 2012) · 
 
 ### ✍️ Writing
 
-Hands-on walk-throughs and protocol deep-dives on Active Directory internals, Windows Server and security — plus Patch Tuesday breakdowns — at **[adinternalshub.com](https://adinternalshub.com/)**. I've also answered the community for years on Microsoft TechNet and Experts Exchange as **Jinish KG**.
+Hands-on walk-throughs and protocol deep-dives on Active Directory internals, Windows Server and security — plus Patch Tuesday breakdowns — at **[adinternalshub.com](https://adinternalshub.com/)**.
 
 ---
 
